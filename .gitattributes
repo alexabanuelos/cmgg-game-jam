@@ -1,3 +1,2 @@
 *.gitignore filter=lfs diff=lfs merge=lfs -text
 *.md filter=lfs diff=lfs merge=lfs -text
-game-jam filter=lfs diff=lfs merge=lfs -text
